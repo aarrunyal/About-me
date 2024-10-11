@@ -1,6 +1,8 @@
    const i = {
         am : "Full Stack Software Developer",
+        working_at: "Disguise Technology", 
         worked_at: [
+                "Worldview Internation Services Inc.",
                 "Australian Music Examination Board", 
                 "Yelko Web Pvt. Ltd.", 
                 "Goglides Group Pvt. Ltd"
